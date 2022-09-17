@@ -11421,7 +11421,7 @@ textarea.form-control {
 .header {
   position: relative;
   height: 100vh;
-  min-height: 500px;
+  min-height: 200px;
   background: url(../imgs/fly.jpg) no-repeat center center fixed;
   background-size: cover;
   overflow: hidden;
