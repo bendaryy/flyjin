@@ -11478,7 +11478,7 @@ textarea.form-control {
 }
 
 .header .shape svg path {
-  fill: #fff;
+  fill: #000;
 }
 
 @media (max-width: 1199.98px) {
