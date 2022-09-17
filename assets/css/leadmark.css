@@ -11867,7 +11867,7 @@ textarea.form-control {
   }
 }
 @media only screen and (min-width: 600px) {
-  .header .overlay .title {
+  .header .overlay .title,.header .overlay {
     /* font-size: calc(30px + (70 - 30) * ((100vw - 320px) / (1200 - 320)));
     font-weight: bold; */
     display: none;
